@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ie2wYHjOTL/3dwpYPsjXlmImkKvPDd4XsjCoXGUtrUGdckAs5JX5Js4zkc12Z5OOB9xFR/Sm6998sYsSuFiTaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Scandling\\.nuget\\packages\\app.metrics.abstractions\\4.4.0-preview.0.4\\app.metrics.abstractions.4.4.0-preview.0.4.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\app.metrics.concurrency\\4.4.0-preview.0.4\\app.metrics.concurrency.4.4.0-preview.0.4.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\app.metrics.core\\4.4.0-preview.0.4\\app.metrics.core.4.4.0-preview.0.4.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\app.metrics.formatters.ascii\\4.4.0-preview.0.4\\app.metrics.formatters.ascii.4.4.0-preview.0.4.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\app.metrics.formatters.prometheus\\4.4.0-preview.0.4\\app.metrics.formatters.prometheus.4.4.0-preview.0.4.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\csharpfunctionalextensions\\2.15.1\\csharpfunctionalextensions.2.15.1.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\protobuf-net\\2.4.0\\protobuf-net.2.4.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Scandling\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Application\\Antwiwaa.ArchBit.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Application\\Antwiwaa.ArchBit.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Application\\Antwiwaa.ArchBit.Application.csproj",
+        "projectName": "Antwiwaa.ArchBit.Application",
+        "projectPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Application\\Antwiwaa.ArchBit.Application.csproj",
+        "packagesPath": "C:\\Users\\Scandling\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Scandling\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\Antwiwaa.ArchBit.Shared.csproj": {
+                "projectPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\Antwiwaa.ArchBit.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.5.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.6.8, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.59.0, )"
+            },
+            "Twilio.AspNet.Core": {
+              "target": "Package",
+              "version": "[5.37.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj",
+        "projectName": "Antwiwaa.ArchBit.Domain",
+        "projectPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj",
+        "packagesPath": "C:\\Users\\Scandling\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Scandling\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "App.Metrics.Formatters.Prometheus": {
+              "target": "Package",
+              "version": "[4.4.0-preview.0.4, )"
+            },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\Antwiwaa.ArchBit.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\Antwiwaa.ArchBit.Shared.csproj",
+        "projectName": "Antwiwaa.ArchBit.Shared",
+        "projectPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\Antwiwaa.ArchBit.Shared.csproj",
+        "packagesPath": "C:\\Users\\Scandling\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Scandling\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj": {
+                "projectPath": "C:\\Users\\Scandling\\RiderProjects\\Antwiwaa\\src\\Antwiwaa.ArchBit.Domain\\Antwiwaa.ArchBit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "App.Metrics.Formatters.Prometheus": {
+              "target": "Package",
+              "version": "[4.4.0-preview.0.4, )"
+            },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

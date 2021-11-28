@@ -1,0 +1,17 @@
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Application.deps.json
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Application.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\ref\GeeCode.ArchBit.Application.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Application.pdb
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Shared.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Domain.pdb
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\bin\Debug\net5.0\GeeCode.ArchBit.Shared.pdb
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.csprojAssemblyReference.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.AssemblyInfoInputs.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.AssemblyInfo.cs
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.csproj.CoreCompileInputs.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.csproj.CopyComplete
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\ref\GeeCode.ArchBit.Application.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Application\obj\Debug\net5.0\GeeCode.ArchBit.Application.pdb

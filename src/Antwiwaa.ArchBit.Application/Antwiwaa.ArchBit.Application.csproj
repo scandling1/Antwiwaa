@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Remove="Class1.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="10.1.1" />
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+        <PackageReference Include="CSharpFunctionalExtensions" Version="2.15.1" />
+        <PackageReference Include="FluentValidation" Version="9.5.3" />
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="9.5.3" />
+        <PackageReference Include="MediatR" Version="9.0.0" />
+        <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="5.0.4" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.4" />
+        <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="5.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Configuration" Version="1.1.0" />
+        <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="Quartz" Version="3.3.2" />
+        <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
+        <PackageReference Include="System.Linq.Dynamic.Core" Version="1.0.6.8" />
+        <PackageReference Include="Twilio" Version="5.59.0" />
+        <PackageReference Include="Twilio.AspNet.Core" Version="5.37.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Antwiwaa.ArchBit.Shared\Antwiwaa.ArchBit.Shared.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj",
+        "projectName": "GeeCode.ArchBit.Application",
+        "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj",
+        "packagesPath": "C:\\Users\\Scandling\\.nuget\\packages\\",
+        "outputPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Scandling\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\nyansabepo\\src\\GeeCode.ArchBit.Domain\\GeeCode.ArchBit.Domain.csproj": {
+                "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Domain\\GeeCode.ArchBit.Domain.csproj"
+              },
+              "E:\\nyansabepo\\src\\GeeCode.ArchBit.Shared\\GeeCode.ArchBit.Shared.csproj": {
+                "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Shared\\GeeCode.ArchBit.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.5.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.6.8, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.59.0, )"
+            },
+            "Twilio.AspNet.Core": {
+              "target": "Package",
+              "version": "[5.37.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

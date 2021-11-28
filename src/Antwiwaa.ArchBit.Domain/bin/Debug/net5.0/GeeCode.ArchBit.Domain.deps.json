@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GeeCode.ArchBit.Domain/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "2.15.1"
+        },
+        "runtime": {
+          "GeeCode.ArchBit.Domain.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/2.15.1": {
+        "runtime": {
+          "lib/net5.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "2.15.1.0",
+            "fileVersion": "2.15.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeeCode.ArchBit.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/2.15.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L/MDGN9az/cQAupHLIOWLWBYjqEXkxDl01M2mTWQOP83wzqJUH0/ZAaCYWJ+Lz4Ruimooe5CAGf5yIVbfjvUog==",
+      "path": "csharpfunctionalextensions/2.15.1",
+      "hashPath": "csharpfunctionalextensions.2.15.1.nupkg.sha512"
+    }
+  }
+}

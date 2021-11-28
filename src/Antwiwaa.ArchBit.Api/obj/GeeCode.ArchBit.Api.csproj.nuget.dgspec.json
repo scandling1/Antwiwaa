@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\nyansabepo\\src\\GeeCode.ArchBit.Api\\GeeCode.ArchBit.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\nyansabepo\\src\\GeeCode.ArchBit.Api\\GeeCode.ArchBit.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Api\\GeeCode.ArchBit.Api.csproj",
+        "projectName": "GeeCode.ArchBit.Api",
+        "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Api\\GeeCode.ArchBit.Api.csproj",
+        "packagesPath": "C:\\Users\\Scandling\\.nuget\\packages\\",
+        "outputPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Scandling\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj": {
+                "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Application\\GeeCode.ArchBit.Application.csproj"
+              },
+              "E:\\nyansabepo\\src\\GeeCode.ArchBit.Infrastructure\\GeeCode.ArchBit.Infrastructure.csproj": {
+                "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Infrastructure\\GeeCode.ArchBit.Infrastructure.csproj"
+              },
+              "E:\\nyansabepo\\src\\GeeCode.ArchBit.Shared\\GeeCode.ArchBit.Shared.csproj": {
+                "projectPath": "E:\\nyansabepo\\src\\GeeCode.ArchBit.Shared\\GeeCode.ArchBit.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

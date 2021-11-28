@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Remove="Class1.cs" />
+        <Compile Remove="General\Dtos\EmailNotificationDto.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="App.Metrics.Formatters.Prometheus" Version="4.4.0-preview.0.4" />
+        <PackageReference Include="CSharpFunctionalExtensions" Version="2.15.1" />
+        <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="5.0.4" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Antwiwaa.ArchBit.Domain\Antwiwaa.ArchBit.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Remove="Class1.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentEmail.Razor" Version="3.0.0" />
+        <PackageReference Include="FluentEmail.Smtp" Version="3.0.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.12" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.12">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.12" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.12">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
+        <PackageReference Include="Scrutor" Version="3.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Antwiwaa.ArchBit.Domain\Antwiwaa.ArchBit.Domain.csproj" />
+        <ProjectReference Include="..\Antwiwaa.ArchBit.Shared\Antwiwaa.ArchBit.Shared.csproj" />
+        <ProjectReference Include="..\Antwiwaa.ArchBit.Application\Antwiwaa.ArchBit.Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="Migrations" />
+    </ItemGroup>
+
+</Project>

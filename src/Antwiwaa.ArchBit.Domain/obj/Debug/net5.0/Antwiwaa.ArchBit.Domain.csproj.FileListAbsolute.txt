@@ -1,0 +1,24 @@
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.deps.json
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.dll
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\ref\Antwiwaa.ArchBit.Domain.dll
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.pdb
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.csprojAssemblyReference.cache
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.AssemblyInfoInputs.cache
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.AssemblyInfo.cs
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.csproj.CoreCompileInputs.cache
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.dll
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\ref\Antwiwaa.ArchBit.Domain.dll
+E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.pdb
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.deps.json
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\ref\Antwiwaa.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.pdb
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.csprojAssemblyReference.cache
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.AssemblyInfoInputs.cache
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.AssemblyInfo.cs
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\ref\Antwiwaa.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Domain\obj\Debug\net5.0\Antwiwaa.ArchBit.Domain.pdb

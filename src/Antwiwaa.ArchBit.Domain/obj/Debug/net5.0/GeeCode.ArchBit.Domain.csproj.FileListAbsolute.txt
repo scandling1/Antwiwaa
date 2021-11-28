@@ -1,0 +1,12 @@
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\bin\Debug\net5.0\GeeCode.ArchBit.Domain.deps.json
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\bin\Debug\net5.0\GeeCode.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\bin\Debug\net5.0\ref\GeeCode.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\bin\Debug\net5.0\GeeCode.ArchBit.Domain.pdb
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.csprojAssemblyReference.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.AssemblyInfoInputs.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.AssemblyInfo.cs
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\ref\GeeCode.ArchBit.Domain.dll
+C:\Users\Scandling\RiderProjects\nyansabepo\src\GeeCode.ArchBit.Domain\obj\Debug\net5.0\GeeCode.ArchBit.Domain.pdb
