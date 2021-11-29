@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antwiwaa.ArchBit.Applicatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antwiwaa.ArchBit.Api", "src\Antwiwaa.ArchBit.Api\Antwiwaa.ArchBit.Api.csproj", "{27A3A653-F4D8-4B56-8B07-B0615085FE63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antwiwaa.ArchBit.TeatApi", "src\Antwiwaa.ArchBit.TeatApi\Antwiwaa.ArchBit.TeatApi.csproj", "{D229D64B-C739-44CA-97BA-12A6BCE550DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antwiwaa.ArchBit.Client", "src\Antwiwaa.ArchBit.Client\Antwiwaa.ArchBit.Client.csproj", "{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,8 @@ Global
 		{104EF327-BB3F-4502-8F4B-7B0E77D61FB9} = {6C938CCB-6DD5-46F8-AA13-1B9872416861}
 		{77973AD3-E772-438C-BFC5-153EEB357607} = {6C938CCB-6DD5-46F8-AA13-1B9872416861}
 		{27A3A653-F4D8-4B56-8B07-B0615085FE63} = {6C938CCB-6DD5-46F8-AA13-1B9872416861}
+		{D229D64B-C739-44CA-97BA-12A6BCE550DC} = {6C938CCB-6DD5-46F8-AA13-1B9872416861}
+		{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101} = {6C938CCB-6DD5-46F8-AA13-1B9872416861}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E2BF6CD8-E054-4068-9599-10969231F034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -45,5 +51,13 @@ Global
 		{27A3A653-F4D8-4B56-8B07-B0615085FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27A3A653-F4D8-4B56-8B07-B0615085FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27A3A653-F4D8-4B56-8B07-B0615085FE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D229D64B-C739-44CA-97BA-12A6BCE550DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D229D64B-C739-44CA-97BA-12A6BCE550DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D229D64B-C739-44CA-97BA-12A6BCE550DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D229D64B-C739-44CA-97BA-12A6BCE550DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F374D4C7-DE5E-42ED-95F2-0D82C1B2D101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
