@@ -13,18 +13,3 @@ E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.Arc
 E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.dll
 E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\ref\Antwiwaa.ArchBit.Shared.dll
 E:\New folder\antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.pdb
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\Antwiwaa.ArchBit.Shared.deps.json
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\Antwiwaa.ArchBit.Shared.dll
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\ref\Antwiwaa.ArchBit.Shared.dll
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\Antwiwaa.ArchBit.Shared.pdb
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.dll
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\bin\Debug\net5.0\Antwiwaa.ArchBit.Domain.pdb
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.csprojAssemblyReference.cache
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.AssemblyInfoInputs.cache
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.AssemblyInfo.cs
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.csproj.CoreCompileInputs.cache
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.csproj.CopyComplete
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.dll
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\ref\Antwiwaa.ArchBit.Shared.dll
-C:\Users\Scandling\RiderProjects\Antwiwaa\src\Antwiwaa.ArchBit.Shared\obj\Debug\net5.0\Antwiwaa.ArchBit.Shared.pdb

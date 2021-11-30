@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Scandling\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Scandling\\.nuget\\packages"
-    ]
-  }
-}
